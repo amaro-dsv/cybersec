@@ -98,7 +98,7 @@ end
 
 ### Large image
 
-![Branching](https://amaro-dsv.github.com/Resources/placeholder_person.jpg)
+![Branching](/Resources/Images/placeholder_person.jpg)
 
 
 ### Definition lists can be used with HTML syntax.
