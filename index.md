@@ -94,12 +94,11 @@ end
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+<img src="Resources/Images/placeholder_icon.jpg" alt:="Description" width="50" height="auto">
 
 ### Large image
 
-![Branching](/Resources/Images/placeholder_person.jpg)
-
+<img src="Resources/Images/placeholder_person.jpg" alt:="Description" width="300" height="auto">
 
 ### Definition lists can be used with HTML syntax.
 
