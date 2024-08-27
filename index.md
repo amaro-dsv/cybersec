@@ -94,11 +94,11 @@ end
 
 ### Small image
 
-<img src="Resources/Images/placeholder_icon.jpg" alt:="Description" width="50" height="auto">
+![DEscription](Resources/Images/placeholder_icon.jpg)
 
 ### Large image
 
-<img src="Resources/Images/placeholder_person.jpg" alt:="Description" width="300" height="auto">
+![DEscription](Resources/Images/placeholder_person.jpg)
 
 ### Definition lists can be used with HTML syntax.
 
