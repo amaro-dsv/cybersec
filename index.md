@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-// [Link to another page](./another-page.html).
+[Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
 
@@ -98,7 +98,7 @@ end
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](https://amaro-dsv.github.com/Resources/placeholder_person.jpg)
 
 
 ### Definition lists can be used with HTML syntax.
