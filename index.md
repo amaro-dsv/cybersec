@@ -2,6 +2,21 @@
 layout: default
 ---
 
+# Information Security Analyst
+#### Technical Skills: yatta yatta, hakuna mattata
+
+## Education
+
+| ok                     | good swedish fish | nice  |
+| out of stock           | good and plenty   | 2020  |
+| Professional School    | good `oreos`      | 2008  |
+| Colleage               | good `zoute` drop | 2006  |
+
+## Work Experience
+#### BMS
+
+#### I&C
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
