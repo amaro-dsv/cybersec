@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Information Security Analyst
-#### Technical Skills: yatta yatta, hakuna mattata
+#### Technical Skills: Network Security, Python, AWS, Endpoint Security
 
 ## Education
 
@@ -13,7 +13,7 @@ layout: default
 | Colleage               | good `zoute` drop | 2006  |
 
 ## Work Experience
-#### BMS
+#### Information Security Analyst @ B Medical Systems (_July 2021 - Present_)
 
 #### I&C
 
